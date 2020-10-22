@@ -1,0 +1,37 @@
+
+
+
+  ul li {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style: none;
+    width: 100%;
+  }
+  li {
+    float: left;
+    width: auto;
+  }
+  a {
+    background-color: rgb(115, 122, 129);
+    color: rgb(255, 255, 255);
+    display: block;
+    font: bold 50px small-caps;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+  }
+  p {background-color: rgb(115, 122, 129);
+    color: rgb(255, 255, 255);
+    display: block;
+    font: bold 50px small-caps;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+
+  }
+  li:hover a{
+    background: rgb(107, 97, 107);
+  }
+  
